@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![chaozhang's github stats](https://github-readme-stats.vercel.app/api?username=puppetninja&count_private=true&show_icons=true&line_height=33.7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puppetninja&hide=css&count_private=false&layout=compact&langs_count=8)
 <!--
 **puppetninja/puppetninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
